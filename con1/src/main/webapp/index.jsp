@@ -9,6 +9,7 @@
 
 <body>
 	<h1>hello spring MVC</h1>
+	<h1>ver 1</h1>
 	<a href="hello.action">click me</a>
 	<br>
 </body>
